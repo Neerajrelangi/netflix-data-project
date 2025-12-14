@@ -1,0 +1,32 @@
+
+================================================================================
+NETFLIX DATA ANALYSIS - EXECUTIVE SUMMARY
+================================================================================
+
+DATASET OVERVIEW:
+Total Titles: 5,915
+Movies: 5,696 (96.3%)
+TV Shows: 219 (3.7%)
+
+GEOGRAPHIC COVERAGE:
+Total Countries: 78
+Top Country: United States (2401 titles)
+
+RATINGS:
+Most Common Rating: TV-MA
+Total Rating Categories: 14
+
+GENRES:
+Total Unique Genres: 42
+
+TIMELINE:
+Earliest Release Year: 1942
+Latest Release Year: 2021
+Content Added From: 2008-01-01
+Content Added Until: 2021-09-25
+
+DIRECTORS:
+Total Directors: 4286
+Most Prolific Director: Rajiv Chilaka (20 titles)
+
+================================================================================
